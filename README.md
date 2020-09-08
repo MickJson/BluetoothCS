@@ -3,7 +3,7 @@
 经典蓝牙连接。
 
 Android蓝牙API简介
-1. 经典蓝牙(Classic Bluetooth)
+经典蓝牙(Classic Bluetooth)
 经典蓝牙适用于电池使用强度较大的操作，例如Android之间流式传输和通信等(音频/文件等大数据)。 从Android 4.3(API 18)才有API支持低功耗蓝牙(BLE)。
 
 经典蓝牙API如下:
